@@ -1,0 +1,17 @@
+button {
+    font-size: 16px;
+    padding: 16px 16px;
+    border: none;
+    background-color: #cbbb0b;
+    color:blue;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: chocolate;
+  }
+  
+  .button:hover {
+    background-color:chartreuse;
+  }
+  body{
+    color: coral;
+  }
